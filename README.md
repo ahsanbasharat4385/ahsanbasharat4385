@@ -3,11 +3,9 @@
 <h3 align="center">A Seasonal Software Engineer.</h3>
 <img align="right" alt="Development" width="400" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="AHSAN ALI" /> </p>
 
-- 🔭 I’m currently working on .Net Core **Oraggo CC**
+- 🔭 I am Currently Working on **Frontend with React.js***
 
-- 🌱 I’m currently learning **Cyber Security, SEO.**
-
-- 💬 Ask me about **.Net Core, Blazor, Laravel, SEO, Cyber Security**
+- 🌱 I am Currently learning **SEO , Backend Node.js and express.js**
 
 - 📫 How to reach me **[Readme](https://github.com/ahsanbasharat4385/ahsanbasharat4385)**
 
@@ -24,7 +22,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-ali-2a3b77288/" height="30" width="40" />
   </a>
   <a href="https://wa.me/923014385464?text=hii+Ahsan+Bro" target="blank">
-    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fwhatsapp-icon&psig=AOvVaw03eYzRxvGrIQhTX--Qfjnu&ust=1710865008918000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDL4fqa_oQDFQAAAAAdAAAAABAJ" height="30" width="40" />
+    <img align="center" src="https://telegra.ph/file/6b4cc91610a4c39cc7c65.jpg" height="30" width="40" alt="wa.me/923014385464"/>
   </a>
 </p>
 
