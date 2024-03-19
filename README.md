@@ -1,6 +1,6 @@
 ![logo](https://telegra.ph/file/a8ea0a0d42dbca132fbef.jpg)
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
-<h3 align="center">A Seasonal Software Engineer.</h3>
+<h3 align="center">A Junior Frontend Web Developer.</h3>
 <img align="right" alt="Development" width="400" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="AHSAN BASHARAT" /> </p>
 
 - 🔭 I am Currently Working on **Frontend with React.js***
